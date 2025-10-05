@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Generate Sample CVs",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/examples/generate_sample_cvs.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Tests",
+            "type": "python",
+            "request": "launch",
+            "module": "pytest",
+            "args": [
+                "tests/",
+                "-v"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

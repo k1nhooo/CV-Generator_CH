@@ -1,0 +1,30 @@
+VALIDIERUNGSBERICHT - SYNTHETISCHE LEBENSLÄUFE
+============================================================
+Anzahl CVs: 10
+
+GESCHLECHTERVERTEILUNG
+----------------------
+Männer: 40.0% (Ziel: 52.0%)
+Frauen: 60.0% (Ziel: 48.0%)
+Status: FAIL
+
+SPRACHREGIONEN
+--------------
+
+BILDUNGSWEGE
+------------
+
+BERUFSSEKTOREN
+--------------
+
+ALTERSVERTEILUNG
+----------------
+Durchschnittsalter: 44.2 Jahre
+Altersbereich: 29-61 Jahre
+Status: FAIL
+
+ZUSAMMENFASSUNG
+--------------
+Validierungen bestanden: 2/5
+Erfolgsquote: 40.0%
+Gesamtstatus: FAIL

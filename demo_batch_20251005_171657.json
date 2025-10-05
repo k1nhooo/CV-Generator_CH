@@ -1,0 +1,1321 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-05T17:16:57.682014",
+    "total_cvs": 10,
+    "generator_version": "1.0.0"
+  },
+  "cvs": [
+    {
+      "cv_id": "CH-CV-476184",
+      "persona": {
+        "personal": {
+          "first_name": "Nicole",
+          "last_name": "Muller",
+          "age": 33,
+          "birth_year": 1992,
+          "gender": "female",
+          "language_region": "romandie",
+          "primary_language": "français",
+          "canton": "Valais",
+          "city": "Fribourg"
+        },
+        "sector": "healthcare_social",
+        "sector_data": {
+          "percentage": 11.5,
+          "roles": [
+            "Pflegefachperson",
+            "Arzt/Ärztin",
+            "Physiotherapeut/in",
+            "Sozialarbeiter/in",
+            "Medizinische Praxisassistenz",
+            "Therapeut/in"
+          ],
+          "career_progression": [
+            "Pflegeassistent",
+            "Pflegefachperson",
+            "Stationsleitung",
+            "Pflegedienstleitung"
+          ],
+          "typical_salaries": {
+            "entry": 58000,
+            "mid": 78000,
+            "senior": 98000,
+            "executive": 120000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Fribourg",
+          "start_year": 1998,
+          "end_year": 2007,
+          "qualification": "Sekundarschulabschluss",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "École technique - École des métiers Fribourg EMF",
+          "start_year": 2008,
+          "end_year": 2011,
+          "qualification": "Eidgenössisches Berufsattest EBA",
+          "field_of_study": "Physiotherapeut/in"
+        }
+      ],
+      "career": [
+        {
+          "position": "Pflegeassistent",
+          "company": "Swiss Medical Network",
+          "location": "Fribourg",
+          "start_year": 2012,
+          "end_year": 2014,
+          "duration_years": 2,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Pflegefachperson",
+          "company": "Alpine Medical Center",
+          "location": "Fribourg",
+          "start_year": 2014,
+          "end_year": 2019,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Stationsleitung",
+          "company": "Alpine Medical Center",
+          "location": "Fribourg",
+          "start_year": 2019,
+          "end_year": null,
+          "duration_years": 6,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "français": "Muttersprache",
+          "deutsch": "Verhandlungssicher",
+          "italiano": "Grundkenntnisse",
+          "english": "Sehr gute Kenntnisse"
+        },
+        "professional_skills": [
+          "Patientenbetreuung",
+          "Pflegeplanung",
+          "Qualitätsmanagement",
+          "Medizinische Dokumentation"
+        ],
+        "it_skills": [
+          "ERP-Systeme",
+          "Datenbanken"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Bergsport",
+        "Kochen",
+        "Schwimmen",
+        "Skifahren"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679156"
+    },
+    {
+      "cv_id": "CH-CV-757564",
+      "persona": {
+        "personal": {
+          "first_name": "Kevin",
+          "last_name": "Bauer",
+          "age": 59,
+          "birth_year": 1966,
+          "gender": "male",
+          "language_region": "deutschschweiz",
+          "primary_language": "deutsch",
+          "canton": "Basel-Landschaft",
+          "city": "Winterthur"
+        },
+        "sector": "construction",
+        "sector_data": {
+          "percentage": 7.5,
+          "roles": [
+            "Maurer/in",
+            "Zimmermann/-frau",
+            "Bauführer/in",
+            "Architekt/in",
+            "Polier/in"
+          ],
+          "career_progression": [
+            "Bauarbeiter",
+            "Vorarbeiter",
+            "Polier",
+            "Bauführer",
+            "Bauleiter"
+          ],
+          "typical_salaries": {
+            "entry": 50000,
+            "mid": 68000,
+            "senior": 85000,
+            "executive": 110000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Winterthur",
+          "start_year": 1972,
+          "end_year": 1981,
+          "qualification": "Realschulabschluss",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "Berufsbildungszentrum Zürich BBZ",
+          "start_year": 1982,
+          "end_year": 1985,
+          "qualification": "Berufsmaturität",
+          "field_of_study": "Bauführer/in"
+        }
+      ],
+      "career": [
+        {
+          "position": "Bauarbeiter",
+          "company": "PostFinance",
+          "location": "Winterthur",
+          "start_year": 1986,
+          "end_year": 1989,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Vorarbeiter",
+          "company": "Kardex",
+          "location": "Winterthur",
+          "start_year": 1989,
+          "end_year": 1994,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Polier",
+          "company": "Swisscom",
+          "location": "Winterthur",
+          "start_year": 1994,
+          "end_year": 1998,
+          "duration_years": 4,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bauführer",
+          "company": "Credit Suisse",
+          "location": "Winterthur",
+          "start_year": 1998,
+          "end_year": 2002,
+          "duration_years": 4,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bauleiter",
+          "company": "Swissport",
+          "location": "Winterthur",
+          "start_year": 2002,
+          "end_year": 2007,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "deutsch": "Muttersprache",
+          "français": "Gute Kenntnisse",
+          "italiano": "Gute Kenntnisse",
+          "english": "Gute Kenntnisse"
+        },
+        "professional_skills": [
+          "Baurecht",
+          "Bauleitung",
+          "Arbeitssicherheit",
+          "Projektmanagement"
+        ],
+        "it_skills": [
+          "ERP-Systeme",
+          "CRM-Systeme",
+          "E-Mail",
+          "Internet"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Tennis",
+        "Kultur"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679220"
+    },
+    {
+      "cv_id": "CH-CV-677410",
+      "persona": {
+        "personal": {
+          "first_name": "Sylvie",
+          "last_name": "Girard",
+          "age": 41,
+          "birth_year": 1984,
+          "gender": "female",
+          "language_region": "romandie",
+          "primary_language": "français",
+          "canton": "Neuchâtel",
+          "city": "Sion"
+        },
+        "sector": "healthcare_social",
+        "sector_data": {
+          "percentage": 11.5,
+          "roles": [
+            "Pflegefachperson",
+            "Arzt/Ärztin",
+            "Physiotherapeut/in",
+            "Sozialarbeiter/in",
+            "Medizinische Praxisassistenz",
+            "Therapeut/in"
+          ],
+          "career_progression": [
+            "Pflegeassistent",
+            "Pflegefachperson",
+            "Stationsleitung",
+            "Pflegedienstleitung"
+          ],
+          "typical_salaries": {
+            "entry": 58000,
+            "mid": 78000,
+            "senior": 98000,
+            "executive": 120000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Sion",
+          "start_year": 1990,
+          "end_year": 1999,
+          "qualification": "Abschluss Sekundarstufe I",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "Centre professionnel du Nord vaudois CPNV",
+          "start_year": 2000,
+          "end_year": 2003,
+          "qualification": "Berufsmaturität",
+          "field_of_study": "Pflegefachperson"
+        }
+      ],
+      "career": [
+        {
+          "position": "Pflegeassistent",
+          "company": "Hirslanden",
+          "location": "Sion",
+          "start_year": 2004,
+          "end_year": 2007,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Pflegefachperson",
+          "company": "Swiss Medical Network",
+          "location": "Sion",
+          "start_year": 2007,
+          "end_year": 2010,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Stationsleitung",
+          "company": "Galenica",
+          "location": "Sion",
+          "start_year": 2010,
+          "end_year": 2017,
+          "duration_years": 7,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Pflegedienstleitung",
+          "company": "Inselspital Bern",
+          "location": "Sion",
+          "start_year": 2017,
+          "end_year": 2022,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "90%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "français": "Muttersprache",
+          "deutsch": "Gute Kenntnisse",
+          "italiano": "Grundkenntnisse",
+          "english": "Sehr gute Kenntnisse"
+        },
+        "professional_skills": [
+          "Erste Hilfe",
+          "Patientenbetreuung",
+          "Qualitätsmanagement",
+          "Medizinische Dokumentation"
+        ],
+        "it_skills": [
+          "Internet",
+          "MS Office",
+          "ERP-Systeme"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Fotografie",
+        "Gärtnern",
+        "Kultur"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679266"
+    },
+    {
+      "cv_id": "CH-CV-356716",
+      "persona": {
+        "personal": {
+          "first_name": "Manuela",
+          "last_name": "Flückiger",
+          "age": 42,
+          "birth_year": 1983,
+          "gender": "female",
+          "language_region": "deutschschweiz",
+          "primary_language": "deutsch",
+          "canton": "St. Gallen",
+          "city": "Bern"
+        },
+        "sector": "technical_engineering",
+        "sector_data": {
+          "percentage": 10.8,
+          "roles": [
+            "Ingenieur/in",
+            "Techniker/in",
+            "Informatiker/in",
+            "Elektroinstallateur/in",
+            "Maschinenbauingenieur/in",
+            "Bauingenieur/in"
+          ],
+          "career_progression": [
+            "Techniker",
+            "Projektingenieur",
+            "Senior Ingenieur",
+            "Technischer Leiter"
+          ],
+          "typical_salaries": {
+            "entry": 62000,
+            "mid": 85000,
+            "senior": 110000,
+            "executive": 140000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Bern",
+          "start_year": 1989,
+          "end_year": 1998,
+          "qualification": "Abschluss Sekundarstufe I",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "Gewerbeschule Thun",
+          "start_year": 1999,
+          "end_year": 2002,
+          "qualification": "Berufsmaturität",
+          "field_of_study": "Bauingenieur/in"
+        }
+      ],
+      "career": [
+        {
+          "position": "Techniker",
+          "company": "Precision Systems",
+          "location": "Bern",
+          "start_year": 2003,
+          "end_year": 2006,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "80%",
+          "responsibilities": null
+        },
+        {
+          "position": "Projektingenieur",
+          "company": "Sika",
+          "location": "Bern",
+          "start_year": 2006,
+          "end_year": 2009,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Senior Ingenieur",
+          "company": "Sika",
+          "location": "Bern",
+          "start_year": 2009,
+          "end_year": 2013,
+          "duration_years": 4,
+          "employment_type": "Festanstellung",
+          "workload": "80%",
+          "responsibilities": null
+        },
+        {
+          "position": "Technischer Leiter",
+          "company": "Implenia",
+          "location": "Bern",
+          "start_year": 2013,
+          "end_year": 2020,
+          "duration_years": 7,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "deutsch": "Muttersprache",
+          "français": "Gute Kenntnisse",
+          "italiano": "Verhandlungssicher",
+          "english": "Sehr gute Kenntnisse"
+        },
+        "professional_skills": [
+          "Technische Dokumentation",
+          "CAD",
+          "Projektmanagement",
+          "Qualitätssicherung"
+        ],
+        "it_skills": [
+          "ERP-Systeme",
+          "CRM-Systeme",
+          "E-Mail"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Gärtnern",
+        "Snowboarden",
+        "Wandern",
+        "Sport"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679310"
+    },
+    {
+      "cv_id": "CH-CV-726381",
+      "persona": {
+        "personal": {
+          "first_name": "Vanessa",
+          "last_name": "Meier",
+          "age": 32,
+          "birth_year": 1993,
+          "gender": "female",
+          "language_region": "deutschschweiz",
+          "primary_language": "deutsch",
+          "canton": "Zürich",
+          "city": "St. Gallen"
+        },
+        "sector": "education",
+        "sector_data": {
+          "percentage": 6.2,
+          "roles": [
+            "Primarlehrer/in",
+            "Sekundarlehrer/in",
+            "Dozent/in",
+            "Ausbilder/in"
+          ],
+          "career_progression": [
+            "Klassenlehrer",
+            "Fachlehrer",
+            "Schulleiter",
+            "Bildungsexperte"
+          ],
+          "typical_salaries": {
+            "entry": 72000,
+            "mid": 88000,
+            "senior": 105000,
+            "executive": 125000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule St. Gallen",
+          "start_year": 1999,
+          "end_year": 2008,
+          "qualification": "Abschluss Sekundarstufe I",
+          "field_of_study": null
+        },
+        {
+          "level": "Gymnasium",
+          "institution": "Gymnasium Thun",
+          "start_year": 2009,
+          "end_year": 2012,
+          "qualification": "Maturitätszeugnis",
+          "field_of_study": null
+        },
+        {
+          "level": "Universitätsstudium",
+          "institution": "OST - Ostschweizer Fachhochschule",
+          "start_year": 2013,
+          "end_year": 2016,
+          "qualification": "Bachelor of Arts",
+          "field_of_study": null
+        },
+        {
+          "level": "Universitätsstudium",
+          "institution": "OST - Ostschweizer Fachhochschule",
+          "start_year": 2016,
+          "end_year": 2018,
+          "qualification": "Master of Arts",
+          "field_of_study": null
+        }
+      ],
+      "career": [
+        {
+          "position": "Klassenlehrer",
+          "company": "Komax",
+          "location": "St. Gallen",
+          "start_year": 2019,
+          "end_year": 2022,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Fachlehrer",
+          "company": "Emmi",
+          "location": "St. Gallen",
+          "start_year": 2022,
+          "end_year": null,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "deutsch": "Muttersprache",
+          "français": "Verhandlungssicher",
+          "italiano": "Sehr gute Kenntnisse",
+          "english": "Gute Kenntnisse"
+        },
+        "professional_skills": [
+          "Pädagogische Diagnostik",
+          "Klassenführung",
+          "E-Learning",
+          "Didaktik"
+        ],
+        "it_skills": [
+          "ERP-Systeme",
+          "Social Media",
+          "CRM-Systeme"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Fotografie",
+        "Schwimmen",
+        "Theater",
+        "Lesen"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679349"
+    },
+    {
+      "cv_id": "CH-CV-586145",
+      "persona": {
+        "personal": {
+          "first_name": "Reto",
+          "last_name": "Stalder",
+          "age": 61,
+          "birth_year": 1964,
+          "gender": "male",
+          "language_region": "deutschschweiz",
+          "primary_language": "deutsch",
+          "canton": "Solothurn",
+          "city": "Basel"
+        },
+        "sector": "construction",
+        "sector_data": {
+          "percentage": 7.5,
+          "roles": [
+            "Maurer/in",
+            "Zimmermann/-frau",
+            "Bauführer/in",
+            "Architekt/in",
+            "Polier/in"
+          ],
+          "career_progression": [
+            "Bauarbeiter",
+            "Vorarbeiter",
+            "Polier",
+            "Bauführer",
+            "Bauleiter"
+          ],
+          "typical_salaries": {
+            "entry": 50000,
+            "mid": 68000,
+            "senior": 85000,
+            "executive": 110000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Basel",
+          "start_year": 1970,
+          "end_year": 1979,
+          "qualification": "Realschulabschluss",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "Berufsfachschule Aarau",
+          "start_year": 1980,
+          "end_year": 1983,
+          "qualification": "Eidgenössisches Berufsattest EBA",
+          "field_of_study": "Polier/in"
+        }
+      ],
+      "career": [
+        {
+          "position": "Bauarbeiter",
+          "company": "Ticino Technologies",
+          "location": "Basel",
+          "start_year": 1984,
+          "end_year": 1988,
+          "duration_years": 4,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Vorarbeiter",
+          "company": "Geberit",
+          "location": "Basel",
+          "start_year": 1988,
+          "end_year": 1991,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Polier",
+          "company": "LEM",
+          "location": "Basel",
+          "start_year": 1991,
+          "end_year": 1996,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bauführer",
+          "company": "Jura Innovations AG",
+          "location": "Basel",
+          "start_year": 1996,
+          "end_year": 2004,
+          "duration_years": 8,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bauleiter",
+          "company": "Baloise",
+          "location": "Basel",
+          "start_year": 2004,
+          "end_year": 2009,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "deutsch": "Muttersprache",
+          "français": "Gute Kenntnisse",
+          "italiano": "Grundkenntnisse",
+          "english": "Verhandlungssicher"
+        },
+        "professional_skills": [
+          "Baurecht",
+          "Arbeitssicherheit",
+          "Projektmanagement",
+          "Bauleitung"
+        ],
+        "it_skills": [
+          "Internet",
+          "E-Mail"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Reisen",
+        "Wandern",
+        "Fotografie",
+        "Lesen"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679392"
+    },
+    {
+      "cv_id": "CH-CV-266058",
+      "persona": {
+        "personal": {
+          "first_name": "Miriam",
+          "last_name": "Fischer",
+          "age": 29,
+          "birth_year": 1996,
+          "gender": "female",
+          "language_region": "deutschschweiz",
+          "primary_language": "deutsch",
+          "canton": "Basel-Stadt",
+          "city": "Basel"
+        },
+        "sector": "construction",
+        "sector_data": {
+          "percentage": 7.5,
+          "roles": [
+            "Maurer/in",
+            "Zimmermann/-frau",
+            "Bauführer/in",
+            "Architekt/in",
+            "Polier/in"
+          ],
+          "career_progression": [
+            "Bauarbeiter",
+            "Vorarbeiter",
+            "Polier",
+            "Bauführer",
+            "Bauleiter"
+          ],
+          "typical_salaries": {
+            "entry": 50000,
+            "mid": 68000,
+            "senior": 85000,
+            "executive": 110000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Basel",
+          "start_year": 2002,
+          "end_year": 2011,
+          "qualification": "Sekundarschulabschluss",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "Berufsbildungszentrum Luzern BBZ",
+          "start_year": 2012,
+          "end_year": 2015,
+          "qualification": "Eidgenössisches Berufsattest EBA",
+          "field_of_study": "Maurer/in"
+        }
+      ],
+      "career": [
+        {
+          "position": "Bauarbeiter",
+          "company": "Rhein Valley Systems",
+          "location": "Basel",
+          "start_year": 2016,
+          "end_year": 2019,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Vorarbeiter",
+          "company": "Eastern Swiss Technology",
+          "location": "Basel",
+          "start_year": 2019,
+          "end_year": 2024,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Polier",
+          "company": "LafargeHolcim",
+          "location": "Basel",
+          "start_year": 2024,
+          "end_year": null,
+          "duration_years": 1,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "deutsch": "Muttersprache",
+          "français": "Gute Kenntnisse",
+          "italiano": "Sehr gute Kenntnisse",
+          "english": "Verhandlungssicher"
+        },
+        "professional_skills": [
+          "Baurecht",
+          "Projektmanagement",
+          "Arbeitssicherheit",
+          "Kostenkalkulation"
+        ],
+        "it_skills": [
+          "Internet",
+          "Datenbanken",
+          "Social Media"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Wandern",
+        "Sport"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679425"
+    },
+    {
+      "cv_id": "CH-CV-421248",
+      "persona": {
+        "personal": {
+          "first_name": "Gérard",
+          "last_name": "Vincent",
+          "age": 57,
+          "birth_year": 1968,
+          "gender": "male",
+          "language_region": "romandie",
+          "primary_language": "français",
+          "canton": "Genève",
+          "city": "Neuchâtel"
+        },
+        "sector": "education",
+        "sector_data": {
+          "percentage": 6.2,
+          "roles": [
+            "Primarlehrer/in",
+            "Sekundarlehrer/in",
+            "Dozent/in",
+            "Ausbilder/in"
+          ],
+          "career_progression": [
+            "Klassenlehrer",
+            "Fachlehrer",
+            "Schulleiter",
+            "Bildungsexperte"
+          ],
+          "typical_salaries": {
+            "entry": 72000,
+            "mid": 88000,
+            "senior": 105000,
+            "executive": 125000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Neuchâtel",
+          "start_year": 1974,
+          "end_year": 1983,
+          "qualification": "Realschulabschluss",
+          "field_of_study": null
+        },
+        {
+          "level": "Gymnasium",
+          "institution": "Gymnase de Burier",
+          "start_year": 1984,
+          "end_year": 1987,
+          "qualification": "Gymnasiale Maturität",
+          "field_of_study": null
+        },
+        {
+          "level": "Universitätsstudium",
+          "institution": "Haute école d'ingénierie et de gestion Vaud HEIG-VD",
+          "start_year": 1988,
+          "end_year": 1991,
+          "qualification": "Bachelor of Science",
+          "field_of_study": null
+        },
+        {
+          "level": "Universitätsstudium",
+          "institution": "Haute école d'ingénierie et de gestion Vaud HEIG-VD",
+          "start_year": 1991,
+          "end_year": 1993,
+          "qualification": "Master of Arts",
+          "field_of_study": null
+        }
+      ],
+      "career": [
+        {
+          "position": "Klassenlehrer",
+          "company": "Luzern Logistics AG",
+          "location": "Neuchâtel",
+          "start_year": 1994,
+          "end_year": 1996,
+          "duration_years": 2,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Fachlehrer",
+          "company": "St. Gallen Services",
+          "location": "Neuchâtel",
+          "start_year": 1996,
+          "end_year": 1999,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Schulleiter",
+          "company": "LafargeHolcim",
+          "location": "Neuchâtel",
+          "start_year": 1999,
+          "end_year": 2004,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bildungsexperte",
+          "company": "Logitech",
+          "location": "Neuchâtel",
+          "start_year": 2004,
+          "end_year": 2009,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "français": "Muttersprache",
+          "deutsch": "Sehr gute Kenntnisse",
+          "italiano": "Grundkenntnisse",
+          "english": "Sehr gute Kenntnisse"
+        },
+        "professional_skills": [
+          "E-Learning",
+          "Klassenführung",
+          "Curriculum Development",
+          "Pädagogische Diagnostik"
+        ],
+        "it_skills": [
+          "Datenbanken",
+          "E-Mail",
+          "ERP-Systeme",
+          "MS Office"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Tennis",
+        "Vereinstätigkeit",
+        "Gärtnern",
+        "Schwimmen"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679611"
+    },
+    {
+      "cv_id": "CH-CV-900800",
+      "persona": {
+        "personal": {
+          "first_name": "Christine",
+          "last_name": "Bertrand",
+          "age": 40,
+          "birth_year": 1985,
+          "gender": "female",
+          "language_region": "romandie",
+          "primary_language": "français",
+          "canton": "Vaud",
+          "city": "Sion"
+        },
+        "sector": "finance_banking",
+        "sector_data": {
+          "percentage": 6.8,
+          "roles": [
+            "Bankkaufmann/-frau",
+            "Finanzanalyst/in",
+            "Kundenberater/in",
+            "Portfolio Manager/in"
+          ],
+          "career_progression": [
+            "Bankberater",
+            "Senior Berater",
+            "Team Manager",
+            "Bereichsleiter"
+          ],
+          "typical_salaries": {
+            "entry": 65000,
+            "mid": 88000,
+            "senior": 120000,
+            "executive": 180000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Sion",
+          "start_year": 1991,
+          "end_year": 2000,
+          "qualification": "Realschulabschluss",
+          "field_of_study": null
+        },
+        {
+          "level": "Gymnasium",
+          "institution": "Collège Sainte-Croix Fribourg",
+          "start_year": 2001,
+          "end_year": 2004,
+          "qualification": "Maturitätszeugnis",
+          "field_of_study": null
+        },
+        {
+          "level": "Universitätsstudium",
+          "institution": "Université de Genève UNIGE",
+          "start_year": 2005,
+          "end_year": 2008,
+          "qualification": "Bachelor of Science",
+          "field_of_study": null
+        }
+      ],
+      "career": [
+        {
+          "position": "Bankberater",
+          "company": "Alpine Private Banking",
+          "location": "Sion",
+          "start_year": 2009,
+          "end_year": 2011,
+          "duration_years": 2,
+          "employment_type": "Festanstellung",
+          "workload": "90%",
+          "responsibilities": null
+        },
+        {
+          "position": "Senior Berater",
+          "company": "Hypothekarbank Lenzburg",
+          "location": "Sion",
+          "start_year": 2011,
+          "end_year": 2016,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Team Manager",
+          "company": "Helvetic Finance",
+          "location": "Sion",
+          "start_year": 2016,
+          "end_year": 2020,
+          "duration_years": 4,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bereichsleiter",
+          "company": "Swiss Wealth Management",
+          "location": "Sion",
+          "start_year": 2020,
+          "end_year": null,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "français": "Muttersprache",
+          "deutsch": "Grundkenntnisse",
+          "italiano": "Grundkenntnisse",
+          "english": "Verhandlungssicher"
+        },
+        "professional_skills": [
+          "Compliance",
+          "Financial Analysis",
+          "Kundenberatung",
+          "Bloomberg Terminal"
+        ],
+        "it_skills": [
+          "Social Media",
+          "CRM-Systeme",
+          "Datenbanken"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Radfahren",
+        "Schwimmen"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679648"
+    },
+    {
+      "cv_id": "CH-CV-666679",
+      "persona": {
+        "personal": {
+          "first_name": "Michael",
+          "last_name": "Schneider",
+          "age": 48,
+          "birth_year": 1977,
+          "gender": "male",
+          "language_region": "deutschschweiz",
+          "primary_language": "deutsch",
+          "canton": "Basel-Stadt",
+          "city": "Winterthur"
+        },
+        "sector": "finance_banking",
+        "sector_data": {
+          "percentage": 6.8,
+          "roles": [
+            "Bankkaufmann/-frau",
+            "Finanzanalyst/in",
+            "Kundenberater/in",
+            "Portfolio Manager/in"
+          ],
+          "career_progression": [
+            "Bankberater",
+            "Senior Berater",
+            "Team Manager",
+            "Bereichsleiter"
+          ],
+          "typical_salaries": {
+            "entry": 65000,
+            "mid": 88000,
+            "senior": 120000,
+            "executive": 180000
+          }
+        }
+      },
+      "education": [
+        {
+          "level": "Obligatorische Schulzeit",
+          "institution": "Primarschule und Sekundarschule Winterthur",
+          "start_year": 1983,
+          "end_year": 1992,
+          "qualification": "Abschluss Sekundarstufe I",
+          "field_of_study": null
+        },
+        {
+          "level": "Berufliche Grundbildung",
+          "institution": "Berufsfachschule Baden",
+          "start_year": 1993,
+          "end_year": 1996,
+          "qualification": "Eidgenössisches Berufsattest EBA",
+          "field_of_study": "Finanzanalyst/in"
+        }
+      ],
+      "career": [
+        {
+          "position": "Bankberater",
+          "company": "EFG International",
+          "location": "Winterthur",
+          "start_year": 1997,
+          "end_year": 2000,
+          "duration_years": 3,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Senior Berater",
+          "company": "Credit Suisse",
+          "location": "Winterthur",
+          "start_year": 2000,
+          "end_year": 2004,
+          "duration_years": 4,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Team Manager",
+          "company": "Helvetic Finance",
+          "location": "Winterthur",
+          "start_year": 2004,
+          "end_year": 2009,
+          "duration_years": 5,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        },
+        {
+          "position": "Bereichsleiter",
+          "company": "EFG International",
+          "location": "Winterthur",
+          "start_year": 2009,
+          "end_year": 2015,
+          "duration_years": 6,
+          "employment_type": "Festanstellung",
+          "workload": "100%",
+          "responsibilities": null
+        }
+      ],
+      "skills": {
+        "languages": {
+          "deutsch": "Muttersprache",
+          "français": "Sehr gute Kenntnisse",
+          "italiano": "Sehr gute Kenntnisse",
+          "english": "Gute Kenntnisse"
+        },
+        "professional_skills": [
+          "Risk Management",
+          "Financial Analysis",
+          "Kundenberatung",
+          "Bloomberg Terminal"
+        ],
+        "it_skills": [
+          "E-Mail",
+          "MS Office"
+        ],
+        "certifications": []
+      },
+      "hobbies": [
+        "Schwimmen",
+        "Bergsport",
+        "Vereinstätigkeit",
+        "Fotografie"
+      ],
+      "generated_date": "2025-10-05 17:16:57.679680"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Install Dependencies",
+            "type": "shell",
+            "command": "pip install -r requirements.txt && pip install -e .",
+            "group": "build"
+        },
+        {
+            "label": "Run Tests",
+            "type": "shell",
+            "command": "pytest tests/ -v",
+            "group": "test"
+        },
+        {
+            "label": "Generate Sample CVs",
+            "type": "shell",
+            "command": "python examples/generate_sample_cvs.py",
+            "group": "build"
+        },
+        {
+            "label": "Format Code",
+            "type": "shell",
+            "command": "black swiss_cv_generator/ examples/ tests/",
+            "group": "build"
+        }
+    ]
+}
